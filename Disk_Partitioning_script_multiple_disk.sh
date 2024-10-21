@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+#script is used to part and mount the multiple disk
 # Define the disk letter range
 DISK_RANGE=(e f g h i j k l m n o p q r s t u)  # Represents disks from /dev/sde to /dev/sdu
 MOUNT_BASE="/data"  # Base mount point
